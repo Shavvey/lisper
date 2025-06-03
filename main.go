@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	lexer "github.com/Shavvey/lisper/lexer"
+)
 
 func main() {
 	fmt.Println("Hello, World")
